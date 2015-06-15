@@ -1347,7 +1347,7 @@
     <properties>
         <!-- Carbon platform version comes here-->
 
-        <carbon.kernel.version>4.4.0</carbon.kernel.version>
+        <carbon.kernel.version>4.4.1-SNAPSHOT</carbon.kernel.version>
         <carbon.kernel.package.import.version.range>[4.4.0, 4.5.0)</carbon.kernel.package.import.version.range>
 
         <carbon.kernel.registry.imp.pkg.version>[1.0.1, 2.0.0)</carbon.kernel.registry.imp.pkg.version>
@@ -1374,8 +1374,8 @@
         <version.javax.servlet.jsp>2.2.0.v201112011158</version.javax.servlet.jsp>
 
         <!-- Servlet API -->
-        <exp.pkg.version.javax.servlet>2.6.0</exp.pkg.version.javax.servlet>
-        <imp.pkg.version.javax.servlet>[2.6.0, 3.0.0)</imp.pkg.version.javax.servlet>
+        <exp.pkg.version.javax.servlet>3.1.0</exp.pkg.version.javax.servlet>
+        <imp.pkg.version.javax.servlet>[2.6.0, 3.2.0)</imp.pkg.version.javax.servlet>
 
         <!-- Misc -->
         <google.guava.wso2.version>12.0.0.wso2v1</google.guava.wso2.version>
@@ -1407,7 +1407,7 @@
         <juddi.wso2.version>3.0.3.wso2v2</juddi.wso2.version>
         <junit.version>3.8.2</junit.version>
         <xmlschema.version>1.4.3</xmlschema.version>
-        <version.javax.servlet>3.0.0.v201112011016</version.javax.servlet>
+        <version.javax.servlet>3.1.0.v20140303-1611</version.javax.servlet>
 
 
         <!-- Orbits -->
@@ -1454,7 +1454,7 @@
         <amber.version>0.22.1358727-wso2v2</amber.version>
         
         <!-- Carbon Commons -->        
-        <carbon.commons.version>4.4.1</carbon.commons.version>
+        <carbon.commons.version>4.4.1-SNAPSHOT</carbon.commons.version>
         <carbon.commons.imp.pkg.version>[4.4.0, 4.5.0)</carbon.commons.imp.pkg.version>
 
         <!-- jms -->
